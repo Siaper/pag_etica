@@ -23,7 +23,7 @@
         </div>
         <div class="row">
             <div class="col-xl-12 text-center">
-            <embed src="http://www.conatel.gob.ve/wp-content/uploads/2014/10/PDF-Ley-Especial-contra-los-Delitos-Inform%C3%A1ticos.pdf" type="application/pdf" width="100%" height="650px" />
+            <embed src="./assets/pdf/delitos.pdf" type="application/pdf" width="100%" height="650px" />
             </div>
             <div class="col-xl-12 text-center" style="margin-top: 30px;">
                 <h5>Documento Original</h5>

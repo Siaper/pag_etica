@@ -23,8 +23,8 @@
         </div>
         <div class="row">
             <div class="col-xl-12 text-center">
-            <embed src="https://www.oas.org/juridico/spanish/cyb_ven_ley_telecomunicaciones.pdf" type="application/pdf" width="100%" height="650px" />
-            </div>
+            <embed src="./assets/pdf/telecom.pdf" type="application/pdf" width="100%" height="650px"/>    
+                   
             <div class="col-xl-12 text-center" style="margin-top: 30px;">
                 <h5>Documento Original</h5>
                 <a href="https://www.oas.org/juridico/spanish/cyb_ven_ley_telecomunicaciones.pdf" target="_blank"><button type="button" class="btn btn-outline-primary"><i class="fas fa-file-download" style="margin-right: 5px;"></i>Descargar</button></a>
