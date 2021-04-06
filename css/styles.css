@@ -60,6 +60,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 #elementos {
   margin-bottom: 7px;
+  width: fit-content;
 }
 
 #elementos2 {
@@ -87,15 +88,11 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   .dropdown-menu li {
     position: relative;
   }
-  .submenu {
-    width: 411px;
-  }
   .nav-item .submenu {
     display: none;
     position: absolute;
     left: 100%;
     top: -7px;
-    width: 411px;
   }
   .nav-item .submenu-left {
     right: 100%;
