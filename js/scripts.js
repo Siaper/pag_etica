@@ -25,6 +25,15 @@
     $('.navbar-collapse').collapse('hide');
   });
 
+  //Close button
+  window.onload = function () {
+    document.getElementById('close').onclick = function () {
+      this.parentNode.parentNode.parentNode
+        .removeChild(this.parentNode.parentNode);
+      return false;
+    };
+  };
+
   // Activate scrollspy to add active class to navbar items on scroll
   $('body').scrollspy({
     target: '#mainNav',
@@ -61,20 +70,20 @@
   });
   //Dropdown submenu
   $(document).on('click', '.dropdown-menu', function (e) {
-  e.stopPropagation();
-});
+    e.stopPropagation();
+  });
 
-// make it as accordion for smaller screens
-if ($(window).width() < 992) {
-  $('.dropdown-menu a').click(function(e){
-    e.preventDefault();
-      if($(this).next('.submenu').length){
+  // make it as accordion for smaller screens
+  if ($(window).width() < 992) {
+    $('.dropdown-menu a').click(function (e) {
+      e.preventDefault();
+      if ($(this).next('.submenu').length) {
         $(this).next('.submenu').toggle();
       }
       $('.dropdown').on('hide.bs.dropdown', function () {
-     $(this).find('.submenu').hide();
-  })
-  });
-}
+        $(this).find('.submenu').hide();
+      })
+    });
+  }
 
 })(jQuery); // End of use strict
