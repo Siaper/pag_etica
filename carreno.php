@@ -24,8 +24,11 @@
         <div class="row">
             <div class="col-xl-12" style="border-color: #595794; border-right-style: solid; border-right-color: #595794; border-left-style: solid;">
                 <p class="text-justify" style="font-size: 18px;">
-                "Manuel Carreño nos explica en su manual de 'URBANIDAD Y BUENAS COSTUMBRES', de manera explícita y muy detallada en cada uno de sus capítulos la mejor manera para comportarse y vivir en comunidad brindando paz y tranquilidad a los familiares, vecinos y sobre todo a nosotros mismos" Villacorte, B. (2019).
+                La manera en que las personas adquieren sus valores y costumbres, suele ser aprendiéndolos de sus padres a través de la imitación y enseñanza, pero muchas veces las personas realizan cosas que consideran correctas las cuales no lo son, y por ende, es que se crearon códigos de conducta para establecer el comportamiento ideal que deben tener la gente. Manuel Carreño, fue uno de estos individuos que crearon un manual de conducta en el cual " nos explica (…) de manera explícita y muy detallada, en cada uno de sus capítulos, la mejor manera para comportarse y vivir en comunidad brindando paz y tranquilidad a los familiares, vecinos y sobre todo a nosotros mismos" Villacorte, B. (2019).
                 </p>
+            </div>
+            <div class="col-xl-12 text-center" style="margin-top:30px">
+            <embed src="./assets/pdf/carreno.pdf" type="application/pdf" width="100%" height="650px" />
             </div>
             <div class="col-xl-12 text-center" style="margin-top: 30px;">
                 <h5>Documento original</h5>

@@ -24,18 +24,16 @@
         <div class="row">
             <div class="col-xl-12" style="border-color: #595794; border-right-style: solid; border-right-color: #595794; border-left-style: solid;">
                 <p class="text-justify" style="font-size: 18px;">
-                    Escrito por Ronald Hubbard en 1981, el camino a la felicidad se nos presenta como un código moral basado totalmente en el sentido común, alejado de cualquier influencia religiosa. Este tiene como objetivo el ayudar a detener el decaimiento social que se vivía en esa época y que a día de hoy, se sigue viviendo. Con el fin de lograr este objetivo, ayuda a recobrar la integridad y moral perdidas de las personas. Todo esto mediante veintiún preceptos básicos, que servirían de guía para una mejor calidad de vida, además de buscar influir de manera positiva a las personas al rededor del lector
+                    Escrito por Ronald Hubbard en 1981, el camino a la felicidad se nos presenta como un código moral basado totalmente en el sentido común, alejado de cualquier influencia religiosa. Este tiene como objetivo el ayudar a detener el decaimiento social que se vivía en esa época y que a día de hoy, se sigue viviendo. Con el fin de lograr este objetivo, ayuda a recobrar la integridad y moral perdidas de las personas. Todo esto mediante veintiún preceptos básicos, que servirían de guía para una mejor calidad de vida, además de buscar influir de manera positiva a las personas al rededor del lector.
                 </p>
+            </div>
+            <div class="col-xl-12 text-center" style="margin-top:30px">
+            <embed src="./assets/pdf/felicidad.pdf" type="application/pdf" width="100%" height="650px" />
             </div>
             <div class="col-xl-12 text-center" style="margin-top: 30px;">
                 <h5>Documento Original</h5>
                 <a href="https://kupdf.net/download/l-ronald-hubbard-el-camino-a-la-felicidad_5afd567be2b6f5dc317d5543_pdf" target="_blank"><button type="button" class="btn btn-outline-primary"><i class="fas fa-file-download" style="margin-right: 5px;"></i>Descargar</button></a>
             </div>
-            <div class="col-xl-12 text-center" style="margin-top: 30px;">
-                <h5>Apoya al Autor comprando el libro</h5>
-                <a href="https://www.amazon.es/CAMINO-FELICIDAD-Libro-Ronald-Hubbard/dp/1599700662" target="_blank"><button type="button" class="btn btn-outline-primary"><i class="fas fa-shopping-cart" style="margin-right: 5px;"></i></i>Comprar libro</button></a>
-            </div>
-            <br>
             <br><br><br><br>
             <div class="col-xl-12" style="margin-top: 30px;">
                 <h5>Comentarios Personales</h5>

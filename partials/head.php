@@ -7,7 +7,7 @@
     <meta name="author" content="" />
     <title>Ética y Deontología</title>
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css">
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/img/logo_compres.png" />
     <!-- Font Awesome icons (free version)-->

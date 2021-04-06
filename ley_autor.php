@@ -22,8 +22,12 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-xl-12 text-center">
-            <embed src="./assets/pdf/autor.pdf" type="application/pdf" width="100%" height="650px" />
+            <div class="col-xl-12" style="border-color: #595794; border-right-style: solid; border-right-color: #595794; border-left-style: solid;">
+                <p class="text-justify" style="font-size: 18px;">
+                    Cuando una persona crea cualquier tipo de trabajo y lo comparte con los demás, es inevitable que este sea replicado por otros a los cuales les llamo la atención. La mayoría de estas personas que copian la obra original no lo suelen hacer con malas intenciones, pero siempre existe el caso de que algún individuo inescrupuloso quiera acreditarse el trabajo de los demás, es ahí cuando entran en acción la leyes que defienden los derechos de autor, tal como está lo hace. 
+            </div>
+            <div class="col-xl-12 text-center" style="margin-top: 30px;">
+                <embed src="./assets/pdf/autor.pdf" type="application/pdf" width="100%" height="650px" />
             </div>
             <div class="col-xl-12 text-center" style="margin-top: 30px;">
                 <h5>Documento Original</h5>
@@ -36,7 +40,7 @@
             </div>
             <div class="col-xl-12" style="border-color: #595794; border-right-style: solid; border-right-color: #595794; border-left-style: solid;">
                 <p class="text-justify" style="font-size: 18px;">
-                En esta, se exponen todas las facultades legales que poseen los autores con respecto a sus obras brindándoles el necesario y legítimo respaldo que deben poseer este tipo de trabajos. Esta ley define una obra como toda creación original que nace del intelecto humano con una finalidad artística, literaria o científica; que además puede ser difundida por cualquier medio de comunicación existente. Asimismo, esta normativa también se encarga de establecer las condenas penales para los individuos que atenten contra los privilegios que poseen los dueños de una determinada obra, ya sea, a través de la distribución de copias ilegales de esta, o que intenten hacerse pasar por los creadores de la misma. Por lo tanto, consideramos que es un gran acierto el haber concebido estas reglas, ya que, es necesario que todos los países protejan los derechos que tienen los autores sobre sus obras, pues, es de esta manera que ellos pueden ser remunerados y reconocidos de forma efectiva cosa que los impulsa a continuar con la creación de más obras que puedan beneficiar a todas las personas alrededor del mundo.
+                    En esta, se exponen todas las facultades legales que poseen los autores con respecto a sus obras brindándoles el necesario y legítimo respaldo que deben poseer este tipo de trabajos. Esta ley define una obra como toda creación original que nace del intelecto humano con una finalidad artística, literaria o científica; que además puede ser difundida por cualquier medio de comunicación existente. Asimismo, esta normativa también se encarga de establecer las condenas penales para los individuos que atenten contra los privilegios que poseen los dueños de una determinada obra, ya sea, a través de la distribución de copias ilegales de esta, o que intenten hacerse pasar por los creadores de la misma. Por lo tanto, consideramos que es un gran acierto el haber concebido estas reglas, ya que, es necesario que todos los países protejan los derechos que tienen los autores sobre sus obras, pues, es de esta manera que ellos pueden ser remunerados y reconocidos de forma efectiva cosa que los impulsa a continuar con la creación de más obras que puedan beneficiar a todas las personas alrededor del mundo.
             </div>
             <div class="col-xl-12" style="margin-top:30px">
                 <h5>Referencias</h5>

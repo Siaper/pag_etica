@@ -24,8 +24,11 @@
         <div class="row">
             <div class="col-xl-12" style="border-color: #595794; border-right-style: solid; border-right-color: #595794; border-left-style: solid;">
                 <p class="text-justify" style="font-size: 18px;">
-                "Reconociendo la importancia de que nuestras tecnologías afectan la calidad de vida en todo el mundo, y en la aceptación de una obligación personal para nuestra profesión, sus miembros y las comunidades que servimos, por este medio nos comprometemos a la más alta ética y conducta profesional" IEEE (1990).
+                    Es necesario que existan códigos que regulen las diferentes actividades profesionales, ya que así se puede alcanzar el objetivo de dar el mejor de desempeño en la profesión, teniendo el más adecuado comportamiento en una gran variedad de situaciones que se le pueden presentar a las personas. Debido a esta razón, el Instituto de Ingenieros Eléctricos y Electrónicos (IEEE) creo el código que se presenta a continuación, con la finalidad de establecer la  conducta de todos los individuos relacionados con la informática.
                 </p>
+            </div>
+            <div class="col-xl-12 text-center" style="margin-top:30px">
+            <embed src="./assets/pdf/ieee.pdf" type="application/pdf" width="100%" height="650px" />
             </div>
             <div class="col-xl-12 text-center" style="margin-top: 30px;">
                 <h5>Documento Original</h5>

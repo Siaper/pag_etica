@@ -22,7 +22,11 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-xl-12">
+            <div class="col-xl-12" style="border-color: #595794; border-right-style: solid; border-right-color: #595794; border-left-style: solid;">
+                <p class="text-justify" style="font-size: 18px;">
+                    A pesar de que los medios de comunicación electrónicos cuentan con métodos muy confiables para resguardar la información, siempre existe una posibilidad de que esta sea interceptada por una persona con mal intenciones de utilizar estos datos para beneficio propio, ya sea, porque obtuvo contraseñas de cuentas bancarias, o que en esta se haga referencia a aspecto muy privados de la vida de un individuo. Por esta razón, existen leyes como la que se presenta a continuación.
+            </div>
+            <div class="col-xl-12" style="margin-top: 30px;">
                 <embed src="./assets/pdf/privacidad.pdf" type="application/pdf" width="100%" height="650px" />
             </div>
         </div>

@@ -22,7 +22,11 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-xl-12 text-center">
+        <div class="col-xl-12" style="border-color: #595794; border-right-style: solid; border-right-color: #595794; border-left-style: solid;">
+                <p class="text-justify" style="font-size: 18px;">
+                Es bien sabido que el internet con el pasar de los años se ha convertido en una de las herramientas más poderosas para la comunicación, y es por ello que actualmente muchos países, además de la ONU, han declarado a este como un derecho fundamental que debe ser garantizado por todos los gobiernos del mundo. En el caso de Venezuela, existe el decreto 825 que define el acceso y uso del internet como una política prioritaria que debe poner en marcha el estado, ya que, este garantiza el desarrollo económico, político, social y cultural del país.
+            </div>
+            <div class="col-xl-12 text-center" style="margin-top: 30px;">
             <embed src="./assets/pdf/decre_825.pdf" type="application/pdf" width="100%" height="650px" />
             </div>
             <div class="col-xl-12 text-center" style="margin-top: 30px;">
@@ -36,10 +40,7 @@
             </div>
             <div class="col-xl-12" style="border-color: #595794; border-right-style: solid; border-right-color: #595794; border-left-style: solid;">
                 <p class="text-justify" style="font-size: 18px;">
-                Es bien sabido que el internet con el pasar de los años se ha convertido en una de las herramientas más poderosas para la comunicación, y es por ello que actualmente muchos países, además de la ONU, han declarado a este como un derecho fundamental que debe ser garantizado por todos los gobiernos del mundo. En el caso de Venezuela, existe el decreto 825 que define el acceso y uso del internet como una política prioritaria que debe poner en marcha el estado, ya que, este garantiza el desarrollo económico, político, social y cultural del país. 
-                <br>
-                <br>
-                También se explica en este, el deber de incluir en todas las actividades que sean posibles, el uso de internet, pues facilita el cumplimiento de los diferentes tramites que se realizan en los organismos públicos; de la misma manera que favorece al sistema educativo, debido a que proporciona una plataforma donde se pueden encontrar todo tipo de conocimientos. Por lo tanto, consideramos que fue un grandísimo acierto el haber hecho este decreto pues, actualmente el internet es más imprescindible de lo que se pensó que podría ser hace 20 años, no solo por la situación actual, sino porque como se buscaba con el artículo; la gran mayoría de procesos y conocimientos se han trasladado a la red, de igual modo que ha hecho las distintas formas de entretenimiento y comunicación.
+                En este se explica, el deber que tiene el estado de incluir en todas las actividades que sean posibles, el uso de internet, pues facilita el cumplimiento de los diferentes tramites que se realizan en los organismos públicos; de la misma manera que favorece al sistema educativo, debido a que proporciona una plataforma donde se pueden encontrar todo tipo de conocimientos. Por lo tanto, consideramos que fue un grandísimo acierto el haber hecho este decreto pues, actualmente el internet es más imprescindible de lo que se pensó que podría ser hace 20 años, no solo por la situación actual, sino porque como se buscaba con el artículo; la gran mayoría de procesos y conocimientos se han trasladado a la red, de igual modo que ha hecho las distintas formas de entretenimiento y comunicación.
             </div>
             <div class="col-xl-12" style="margin-top:30px">
                 <h5>Referencias</h5>

@@ -49,7 +49,7 @@
                                 <li><a class="nav-link" href="./ley_autor.php" id="elementos">Ley sobre Derecho de Autor</a></li>
                                 <li><a class="nav-link" href="./ley_telecom.php" id="elementos">Ley Orgánica de Telecomunicaciones</a></li>
                                 <li><a class="nav-link" href="./ley_delitos.php" id="elementos">Ley Especial contra Delitos Informáticos</a></li>
-                                <li><a class="nav-link" href="#" id="elementos">Ley de Mensajes de Datos y Firmas Electrónicas</a></li>
+                                <li><a class="nav-link" href="./ley_firma.php" id="elementos">Ley de Mensajes de Datos y Firmas Electrónicas</a></li>
                                 <li><a class="nav-link" href="#" id="elementos">Ley Orgánica de Ciencia Tecnología e Innovación </a></li>
                                 <li><a class="nav-link" href="#" id="elementos">Ley de Tarjetas Electrónicas</a></li>
                                 <li><a class="nav-link" href="#" id="elementos">Ley de Infogobierno</a></li>
@@ -58,7 +58,7 @@
                         <li><a class="nav-link" href="#" id="elementos">Decretos &raquo</a>
                             <ul class="submenu dropdown-menu" id="menu">
                                 <li><a class="nav-link" href="./decre_825.php" id="elementos">Decreto 825 - Uso Prioritario de Internet</a></li>
-                                <li><a class="nav-link" href="#" id="elementos">Decreto 3390 – Uso Prioritario de Software Libre</a></li>
+                                <li><a class="nav-link" href="./decre_3390.php" id="elementos">Decreto 3390 – Uso Prioritario de Software Libre</a></li>
                                 <li><a class="nav-link" href="#" id="elementos">Decreto 5.103</a></li>
                                 <li><a class="nav-link" href="#" id="elementos">Decreto 3390 – Uso Prioritario de Software Libre</a></li>
                                 <li><a class="nav-link" href="#" id="elementos">Decreto 3390 – Uso Prioritario de Software Libre</a></li>
@@ -66,9 +66,9 @@
                         </li>
                         <li><a class="nav-link" href="#" id="elementos">Resoluciones &raquo</a>
                             <ul class="submenu dropdown-menu" id="menu">
-                                <li><a class="nav-link" href="#" id="elementos">Resolución 237</a></li>
-                                <li><a class="nav-link" href="#" id="elementos">Resolución 320</a></li>
-                                <li><a class="nav-link" href="#" id="elementos">Resolución 321</a></li>
+                                <li><a class="nav-link" href="./reso_237.php" id="elementos">Resolución 237</a></li>
+                                <li><a class="nav-link" href="./reso_320.php" id="elementos">Resolución 320</a></li>
+                                <li><a class="nav-link" href="./reso_321.php" id="elementos">Resolución 321</a></li>
                             </ul>
                         </li>
                         <li><a class="nav-link" href="#" id="elementos"> Otros &raquo</a>
