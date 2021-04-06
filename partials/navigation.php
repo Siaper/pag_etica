@@ -26,7 +26,7 @@
                     <div class="dropdown-menu" id="menu">
                         <a class="nav-link" href="./libro_felicidad.php" id="elementos">Camino a la Felicidad</a>
                         <a class="nav-link" href="./carreno.php" id="elementos">Manual de Carreño</a>
-                        <a class="nav-link" href="./dudh.php" id="elementos">Declaración Universal de los Derechos Humanos</a>
+                        <a class="nav-link" href="./dudh.php" id="elementos2">Declaración Universal de los Derechos Humanos</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -45,11 +45,11 @@
                     <ul class="dropdown-menu" id="menu">
                         <li><a class="nav-link" href="#" id="elementos">Leyes &raquo</a>
                             <ul class="submenu dropdown-menu" id="menu">
-                                <li><a class="nav-link" href="./ley_com.php" id="elementos">Ley de Protección de la Privacidad en las Comunicaciones </a></li>
-                                <li><a class="nav-link" href="./ley_autor.php" id="elementos">Ley sobre Derecho de Autor</a></li>
-                                <li><a class="nav-link" href="./ley_telecom.php" id="elementos">Ley Orgánica de Telecomunicaciones</a></li>
-                                <li><a class="nav-link" href="./ley_delitos.php" id="elementos">Ley Especial contra Delitos Informáticos</a></li>
-                                <li><a class="nav-link" href="./ley_firma.php" id="elementos">Ley de Mensajes de Datos y Firmas Electrónicas</a></li>
+                                <li><a class="nav-link" href="./ley_com.php" id="elementos2">Ley de Protección de la Privacidad en las Comunicaciones </a></li>
+                                <li><a class="nav-link" href="./ley_autor.php" id="elementos2">Ley sobre Derecho de Autor</a></li>
+                                <li><a class="nav-link" href="./ley_telecom.php" id="elementos2">Ley Orgánica de Telecomunicaciones</a></li>
+                                <li><a class="nav-link" href="./ley_delitos.php" id="elementos2">Ley Especial contra Delitos Informáticos</a></li>
+                                <li><a class="nav-link" href="./ley_firma.php" id="elementos2">Ley de Mensajes de Datos y Firmas Electrónicas</a></li>
                                 <li><a class="nav-link" href="#" id="elementos">Ley Orgánica de Ciencia Tecnología e Innovación </a></li>
                                 <li><a class="nav-link" href="#" id="elementos">Ley de Tarjetas Electrónicas</a></li>
                                 <li><a class="nav-link" href="#" id="elementos">Ley de Infogobierno</a></li>
@@ -74,7 +74,7 @@
                         <li><a class="nav-link" href="#" id="elementos"> Otros &raquo</a>
                             <ul class="submenu dropdown-menu" id="menu">
                                 <li><a class="nav-link" href="./constitucion.php" id="elementos">Constitución Nacional</a></li>
-                                <li><a class="nav-link" href="#" id="elementos">Reglamento Parcial de la Ley Orgánica de Telecomunicaciones</a></li>
+                                <li><a class="nav-link" href="#" id="elementos2">Reglamento Parcial de la Ley Orgánica de Telecomunicaciones</a></li>
                                 <li><a class="nav-link" href="#" id="elementos">Plan Nacional TIC </a></li>
                             </ul>
                         </li>

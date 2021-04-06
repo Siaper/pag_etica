@@ -57,7 +57,7 @@
             </div>
             <div class="col-xl-12" style="margin-top:30px">
                 <h5>Referencias</h5>
-                <li>Constitución De La República Bolivariana De Venezuela. 19 de febrero 2009 (Venezuela). <a href="http://www.minci.gob.ve/wp-content/uploads/2011/04/CONSTITUCION.pdf" target="_blank">http://www.minci.gob.ve/wp-content/uploads/2011/04/CONSTITUCION.pdf</a></li>
+                <li>Constitución De La República Bolivariana De Venezuela [Const]. 19 de febrero 2009 (Venezuela). <a href="http://www.minci.gob.ve/wp-content/uploads/2011/04/CONSTITUCION.pdf" target="_blank">http://www.minci.gob.ve/wp-content/uploads/2011/04/CONSTITUCION.pdf</a></li>
             </div>
         </div>
     </div>
