@@ -50,18 +50,16 @@
                                 <li><a class="nav-link" href="./ley_telecom.php" id="elementos2">Ley Orgánica de Telecomunicaciones</a></li>
                                 <li><a class="nav-link" href="./ley_delitos.php" id="elementos2">Ley Especial contra Delitos Informáticos</a></li>
                                 <li><a class="nav-link" href="./ley_firma.php" id="elementos2">Ley de Mensajes de Datos y Firmas Electrónicas</a></li>
-                                <li><a class="nav-link" href="#" id="elementos">Ley Orgánica de Ciencia Tecnología e Innovación </a></li>
+                                <li><a class="nav-link" href="./ley_ciencia.php" id="elementos">Ley Orgánica de Ciencia Tecnología e Innovación </a></li>
                                 <li><a class="nav-link" href="#" id="elementos">Ley de Tarjetas Electrónicas</a></li>
                                 <li><a class="nav-link" href="#" id="elementos">Ley de Infogobierno</a></li>
                             </ul>
                         </li>
                         <li><a class="nav-link" href="#" id="elementos">Decretos &raquo</a>
                             <ul class="submenu dropdown-menu" id="menu">
-                                <li><a class="nav-link" href="./decre_825.php" id="elementos">Decreto 825 - Uso Prioritario de Internet</a></li>
-                                <li><a class="nav-link" href="./decre_3390.php" id="elementos">Decreto 3390 – Uso Prioritario de Software Libre</a></li>
-                                <li><a class="nav-link" href="#" id="elementos">Decreto 5.103</a></li>
-                                <li><a class="nav-link" href="#" id="elementos">Decreto 3390 – Uso Prioritario de Software Libre</a></li>
-                                <li><a class="nav-link" href="#" id="elementos">Decreto 3390 – Uso Prioritario de Software Libre</a></li>
+                                <li><a class="nav-link" href="./decre_825.php" id="elementos">Decreto 825</a></li>
+                                <li><a class="nav-link" href="./decre_3390.php" id="elementos">Decreto 3390</a></li>
+                                <li><a class="nav-link" href="./decre_5103.php" id="elementos">Decreto 5103</a></li>
                             </ul>
                         </li>
                         <li><a class="nav-link" href="#" id="elementos">Resoluciones &raquo</a>
@@ -75,7 +73,7 @@
                             <ul class="submenu dropdown-menu" id="menu">
                                 <li><a class="nav-link" href="./constitucion.php" id="elementos">Constitución Nacional</a></li>
                                 <li><a class="nav-link" href="#" id="elementos2">Reglamento Parcial de la Ley Orgánica de Telecomunicaciones</a></li>
-                                <li><a class="nav-link" href="#" id="elementos">Plan Nacional TIC </a></li>
+                                <li><a class="nav-link" href="./plan_tic.php" id="elementos">Plan Nacional TIC </a></li>
                             </ul>
                         </li>
                     </ul>
