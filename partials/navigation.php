@@ -52,7 +52,7 @@
                                 <li><a class="nav-link" href="./ley_firma.php" id="elementos2">Ley de Mensajes de Datos y Firmas Electrónicas</a></li>
                                 <li><a class="nav-link" href="./ley_ciencia.php" id="elementos">Ley Orgánica de Ciencia Tecnología e Innovación </a></li>
                                 <li><a class="nav-link" href="#" id="elementos">Ley de Tarjetas Electrónicas</a></li>
-                                <li><a class="nav-link" href="#" id="elementos">Ley de Infogobierno</a></li>
+                                <li><a class="nav-link" href="./infogob.php" id="elementos">Ley de Infogobierno</a></li>
                             </ul>
                         </li>
                         <li><a class="nav-link" href="#" id="elementos">Decretos &raquo</a>
