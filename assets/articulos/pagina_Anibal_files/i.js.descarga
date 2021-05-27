@@ -1,0 +1,4 @@
+(function() {
+	let d43070 = document.createElement('div');d43070.innerHTML="<iframe id=\"multisync-iframe\" height=\"0\" width=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"https://secure-assets.rubiconproject.com/utils/xapi/multi-sync.html?p=mgid&endpoint=us-west\" style=\"border: 0px; display: none;\"></iframe>";document.body.appendChild(d43070);
+	(document.createElement('IMG')).src = 'https://creativecdn.com/cm-notify?pi=mgid';
+})()

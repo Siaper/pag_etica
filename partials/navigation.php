@@ -72,7 +72,6 @@
                         <li><a class="nav-link" href="#" id="elementos"> Otros &raquo</a>
                             <ul class="submenu dropdown-menu" id="menu">
                                 <li><a class="nav-link" href="./constitucion.php" id="elementos">Constitución Nacional</a></li>
-                                <li><a class="nav-link" href="#" id="elementos2">Reglamento Parcial de la Ley Orgánica de Telecomunicaciones</a></li>
                                 <li><a class="nav-link" href="./plan_tic.php" id="elementos">Plan Nacional TIC </a></li>
                             </ul>
                         </li>
@@ -80,22 +79,20 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Casos Prácticos
+                        Artículos de Prensa
                     </a>
                     <div class="dropdown-menu" id="menu">
-                        <a class="nav-link" href="../etica.php" id="elementos">ejemplo</a>
-                        <a class="nav-link" href="#" id="elementos">ejemplo</a>
-                        <a class="nav-link" href="#" id="elementos">ejemplo</a>
+                        <a class="nav-link" href="./articulo_Anibal.php" id="elementos">Aníbal Velásquez</a>
+                        <a class="nav-link" href="./articulo_Miguel.php" id="elementos">Miguel Bruno</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Otros
+                        Mircroensayos
                     </a>
                     <div class="dropdown-menu" id="menu">
-                        <a class="nav-link" href="../etica.php" id="elementos">ejemplo</a>
-                        <a class="nav-link" href="#" id="elementos">ejemplo</a>
-                        <a class="nav-link" href="#" id="elementos">ejemplo</a>
+                        <a class="nav-link" href="./ensayo_Anibal.php" id="elementos">Aníbal Velásquez</a>
+                        <a class="nav-link" href="./ensayo_Miguel.php" id="elementos">Miguel Bruno</a>
                     </div>
                 </li>
             </ul>
